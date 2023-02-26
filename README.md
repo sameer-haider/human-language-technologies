@@ -9,3 +9,6 @@ Wrote a text processing [program](Assignment_1-Text_Processing/text_processing.p
 
 ## Assignment 2 - Word Guess Game
 Wrote a guessing game. Processes top 50 most common nouns from a text body. Used methods from nltk library to preprocess text. Link to [guessing game](Assignment_2-Word_Guess_Game/word_guess_game.py).
+
+## Assignment 3 - WordNet
+Tried out different features of the WordNet corpus such as synsets, sentisynsets, lesk algorithm, and wu-palmer metrics. [Link](Assignment_3_WordNet/WordNet.ipynb) to python notebook.
