@@ -12,3 +12,9 @@ Wrote a guessing game. Processes top 50 most common nouns from a text body. Used
 
 ## Assignment 3 - WordNet
 Tried out different features of the WordNet corpus such as synsets, sentisynsets, lesk algorithm, and wu-palmer metrics. [Link](Assignment_3_WordNet/WordNet.ipynb) to python notebook.
+
+## Assignment 4 - Ngrams
+Extracted unigrams and bigrams from a text body and developed a probabilistic language model. [Link](Assignment_4_Ngrams/).
+
+## Assignment 5 - Parsing Sentences
+Wrote out the three parses for a sentence: PSG, dependency, and SRL. [Link](Assignment_4_Parsing_Sentences/Parsing.pdf).
