@@ -17,4 +17,4 @@ Tried out different features of the WordNet corpus such as synsets, sentisynsets
 Extracted unigrams and bigrams from a text body and developed a probabilistic language model. [Link](Assignment_4_Ngrams/).
 
 ## Assignment 5 - Parsing Sentences
-Wrote out the three parses for a sentence: PSG, dependency, and SRL. [Link](Assignment_4_Parsing_Sentences/Parsing.pdf).
+Wrote out the three parses for a sentence: PSG, dependency, and SRL. [Link](Assignment_5_Parsing_Sentences/Parsing.pdf).
