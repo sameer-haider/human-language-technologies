@@ -18,3 +18,9 @@ Extracted unigrams and bigrams from a text body and developed a probabilistic la
 
 ## Assignment 5 - Parsing Sentences
 Wrote out the three parses for a sentence: PSG, dependency, and SRL. [Link](Assignment_5_Parsing_Sentences/Parsing.pdf).
+
+## Assignment 6 - Web Crawler
+Crawled articles and scraped information based on "Interstellar" topic. [Link](Assignment_6_Web_Crawler/webCrawler.py).
+
+## Assignment 7 - Text Classification
+Tested out text classification on [SMS-Spam](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) data with Naive Bayes, Logistic Regression, and Neural Networks. [Link](Assignment_7_Text_Classification/Text_Classification.ipynb) to code.
