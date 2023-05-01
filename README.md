@@ -26,10 +26,10 @@ Crawled articles and scraped information based on "Interstellar" topic. [Link](A
 Tested out text classification on [SMS-Spam](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) data with Naive Bayes, Logistic Regression, and Neural Networks. [Link](Assignment_7_Text_Classification/Text_Classification.ipynb) to code.
 
 ## Assignment 8 - ACL Paper
-Wrote a summary over an ACL Paper about [Automatic Identification and Classification of Bragging in Social Media](https://aclanthology.org/2022.acl-long.273/). Link to [summary](Assignment_8_ACL_paper/ACL_Paper.pdf)
+Wrote a summary over an ACL Paper about [Automatic Identification and Classification of Bragging in Social Media](https://aclanthology.org/2022.acl-long.273/). Link to [summary](Assignment_8_ACL_paper/ACL_Paper.pdf).
 
 ## Assignment 9 - Text Classification 2
-Tested out more text classification on the same [SMS-Spam](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) dataset with Sequential and RNN models, also trying out GloVe embeddings. Link to [code](Assignment_9_Text_Classification_2/Text_Classification_2.ipynb)
+Tested out more text classification on the same [SMS-Spam](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) dataset with Sequential and RNN models, also trying out GloVe embeddings. Link to [code](Assignment_9_Text_Classification_2/Text_Classification_2.ipynb).
 
 ## Chatbot Project - Interstellar
-Built a simple chatbot using AIML and multiple nlp techniques. Chatbot answered questions within the domain of the movie Interstellar directed by Christopher Nolan. Link to [repo](https://github.com/sameer-haider/HLT-chatbot-project)
+Built a simple chatbot using AIML and multiple nlp techniques. Chatbot answered questions within the domain of the movie Interstellar directed by Christopher Nolan. Link to [repo](https://github.com/sameer-haider/HLT-chatbot-project).
