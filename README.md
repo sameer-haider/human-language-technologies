@@ -33,3 +33,8 @@ Tested out more text classification on the same [SMS-Spam](https://www.kaggle.co
 
 ## Chatbot Project - Interstellar
 Built a simple chatbot using AIML and multiple nlp techniques. Chatbot answered questions within the domain of the movie Interstellar directed by Christopher Nolan. Link to [repo](https://github.com/sameer-haider/HLT-chatbot-project).
+
+# Summary 
+Throughout this semester, I have learned many things in my Human Language Technologies (CS 4395.001) class. I have learned about the foundation of natural language processing and had a lot of hands on experience working with AI and NLP technology. I know a lot about preprocessing, different word embeddings, and various prominent NLP models. 
+
+Overall, I learned many different things, and I hope that this portfolio shows how my skills have grown throughout this class.
